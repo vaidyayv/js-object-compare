@@ -1,5 +1,5 @@
 {
-  "name": "js-object-compare",
+  "name": "javascript-object-compare",
   "version": "1.0.0",
   "description": "This package helps in deep comparing equality of JavaScript Objects",
   "main": "index.js",
