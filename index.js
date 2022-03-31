@@ -1,4 +1,4 @@
-exports.objectCompare = function (a, b) {
+const objectCompare = function (a, b) {
     if (typeof a !== typeof b) {
         return false;
     }
@@ -22,3 +22,5 @@ exports.objectCompare = function (a, b) {
             return a === b;
     }
 }
+
+export default objectCompare;
