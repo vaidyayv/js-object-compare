@@ -1,0 +1,25 @@
+{
+  "name": "js-object-compare",
+  "version": "1.0.0",
+  "description": "This package helps in deep comparing equality of JavaScript Objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaidyayv/js-object-compare.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "deep",
+    "equality",
+    "objects"
+  ],
+  "author": "Yogesh Vaidya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaidyayv/js-object-compare/issues"
+  },
+  "homepage": "https://github.com/vaidyayv/js-object-compare#readme"
+}
